@@ -1,16 +1,17 @@
 :root{
   --color-dark: black;
   --color-light: white;
+  --color-light-bg: rgba(255, 255, 255, 0.7);
   --color-border: brown;
-  --color-shadow: rgba(255, 0, 0, .5);
+  --color-shadow: rgba(255, 251, 0, 0.863);
 }
 
 .dark-mode{
   --color-dark: white;
   --color-light: black;
-  --color-light-bg: rgba(59, 59, 59, 0.726);
+  --color-light-bg: rgba(59, 59, 59, 0.9);
   --color-border: yellow;
-  --color-shadow: rgba(48, 143, 172, 0.5);
+  --color-shadow: rgba(48, 143, 172, 0.863);
 }
 
 body{
